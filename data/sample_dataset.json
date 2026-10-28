@@ -1,0 +1,20 @@
+[
+  {
+    "query": "What is the primary objective of Project Greenhouse?",
+    "passages": [
+      "Greenhouse gases trap heat in the earth atmosphere causing global warming.",
+      "The Castorini research lab works on information retrieval toolkits like Anserini and Pyserini.",
+      "Project Greenhouse aims to build sovereign open-source search agents and rerankers without proprietary API dependencies."
+    ],
+    "relevance": [0, 1, 2]
+  },
+  {
+    "query": "How is iron deficiency anemia treated?",
+    "passages": [
+      "Common symptoms include fatigue, pale skin, and shortness of breath.",
+      "Iron deficiency anemia is treated with dietary changes and oral iron supplements to restore iron reserves.",
+      "Iron is a chemical element with symbol Fe and atomic number 26."
+    ],
+    "relevance": [1, 2, 0]
+  }
+]

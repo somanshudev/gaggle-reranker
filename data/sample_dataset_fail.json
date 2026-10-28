@@ -1,0 +1,10 @@
+[
+  {
+    "query": "What is the primary objective of Project Greenhouse?",
+    "passages": [
+      "Short normal passage about greenhouse gases.",
+      "Project Greenhouse aims to build sovereign open-source search agents and rerankers without proprietary API dependencies."
+    ],
+    "relevance": [0, 1]
+  }
+]

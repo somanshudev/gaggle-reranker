@@ -1,0 +1,6 @@
+{
+  "avg_bm25_ndcg": 0.7398124665681314,
+  "avg_gaggle_ndcg": 0.8099531166420328,
+  "avg_latency_ms": 40791.0715341568,
+  "device": "mps"
+}
